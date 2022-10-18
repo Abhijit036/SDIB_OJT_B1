@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "EXP22.C": "cpp",
+        "EXP4.C": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
