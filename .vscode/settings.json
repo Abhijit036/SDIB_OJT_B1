@@ -3,7 +3,8 @@
     "files.associations": {
         "stdio.h": "c",
         "EXP22.C": "cpp",
-        "EXP4.C": "cpp"
+        "EXP4.C": "cpp",
+        "EXP3.C": "cpp"
     },
     "C_Cpp.dimInactiveRegions": false
 }
